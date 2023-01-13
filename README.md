@@ -2,11 +2,9 @@
 
 This is a proof of concept single-page application (SPA) developed to explore several technologies like Elixir, TypeScript, GraphQL and Docker; as well as some architectural patterns like Command Query Responsibility Segregation (CQRS) and Event Sourcing (ES)
 
-[![Build Status](https://travis-ci.com/eeng/caffe.svg?branch=master)](https://travis-ci.com/eeng/caffe)
-
 ## The Domain
 
-The business domain will consist of a café style restaurant.
+The business domain will consist of a cafe style restaurant.
 Customers can browse the menu and then place orders for food and drinks. The chef prepares the meals and then the waitstaff serves them (drinks can be served immediately, though). In the end, the order must be paid with an optional tip.
 
 ## The Solution
